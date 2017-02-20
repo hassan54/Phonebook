@@ -31,16 +31,15 @@ namespace PhoneBook
 
 
         }
-
-        protected void imgDeleteButton_Click(object sender, ImageClickEventArgs e)
+        protected void imgDeleteButton_Command(object sender, CommandEventArgs e)
         {
-            ImageButton ibtn1 = sender as ImageButton;
-            int contactid = Convert.ToInt32(ibtn1.Attributes["RowIndex"]);
             
+            int contactid = Convert.ToInt32(e.CommandArgument.ToString());
             MYDAL MyobjDal = new MYDAL();
             MyobjDal.DeleteContact(contactid);
             MessageBox.Show("Contact Deleted");
             Response.Redirect("Contacts.aspx");
+
 
         }
         public DataTable ReturnEmptyDataTable()
@@ -71,6 +70,8 @@ namespace PhoneBook
             dt.Rows.Add(dr);
             return dt;
         }
+
+        
 
 
     }

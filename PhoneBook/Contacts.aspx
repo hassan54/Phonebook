@@ -5,6 +5,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>PhoneBook</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="The description of my page" />
 </head>
 <body>
     <form id="ContactInfo" method="post" runat="server">
@@ -128,7 +130,7 @@
                                                             <ItemStyle HorizontalAlign="Center" CssClass="content"></ItemStyle>
                                                             <ItemTemplate>
                                                                 <a href="btnEdit_Click?ContactId=<%# DataBinder.Eval(Container.DataItem, "ContactID") %>">
-                                                                <asp:ImageButton runat="server" CommandArgument="<%# DataBinder.Eval(Container.DataItem, "ContactID") %>" OnClick="imgDeleteButton_Click" ImageUrl="images/icon-delete.gif" ID="imgDeleteButton"></asp:ImageButton></a>
+                                                                <asp:ImageButton ID="imgDeleteButton" runat="server" ImageUrl="images/icon-delete.gif" OnCommand="imgDeleteButton_Command"></asp:ImageButton></a>
                                                             </ItemTemplate>
                                                         </asp:TemplateColumn>
                                                     </Columns>

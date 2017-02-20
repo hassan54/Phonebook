@@ -4,3 +4,9 @@ C:\Users\hassa\onedrive\documents\visual studio 2013\Projects\PhoneBook\PhoneBoo
 C:\Users\hassa\onedrive\documents\visual studio 2013\Projects\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
 C:\Users\hassa\onedrive\documents\visual studio 2013\Projects\PhoneBook\PhoneBook\obj\Debug\PhoneBook.dll
 C:\Users\hassa\onedrive\documents\visual studio 2013\Projects\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\hassa\OneDrive\Documents\Visual Studio 2013\Projects\Projects(GitRepos)\Phonebook\PhoneBook\bin\PhoneBook.dll.config
+C:\Users\hassa\OneDrive\Documents\Visual Studio 2013\Projects\Projects(GitRepos)\Phonebook\PhoneBook\bin\PhoneBook.dll
+C:\Users\hassa\OneDrive\Documents\Visual Studio 2013\Projects\Projects(GitRepos)\Phonebook\PhoneBook\bin\PhoneBook.pdb
+C:\Users\hassa\OneDrive\Documents\Visual Studio 2013\Projects\Projects(GitRepos)\Phonebook\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+C:\Users\hassa\OneDrive\Documents\Visual Studio 2013\Projects\Projects(GitRepos)\Phonebook\PhoneBook\obj\Debug\PhoneBook.dll
+C:\Users\hassa\OneDrive\Documents\Visual Studio 2013\Projects\Projects(GitRepos)\Phonebook\PhoneBook\obj\Debug\PhoneBook.pdb
