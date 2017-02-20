@@ -1,0 +1,98 @@
+﻿body {
+}
+
+table {
+    width: 700px;
+    height: 600px;
+    margin: 0 auto;
+    font-size: 20px;
+    color: #666;
+}
+
+.buttonbg {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 11px;
+    color: #FFFFFF;
+    border: 1px #c53E03 solid;
+    cursor: pointer;
+    background-image: url('data:image/gif;base64,R0lGODlhAQASAMQAAOeQVuyia9dnKOqZYe6odNNeHtZjJOOGStltL9BVFt10OOF+Qc9VFdVgItNZGc5REs9TE9NaGwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAABABIAAAUP4AMxiRMVjSEgynIAQ0CEADs=');
+    margin-left:100px;
+}
+
+.searchLabel {
+    FONT-SIZE: 10px;
+    COLOR: #803530;
+    FONT-FAMILY: Verdana, Courier New;
+    text-decoration: none;
+}
+
+.titleBg {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    color: #FFFFFF;
+    letter-spacing: 0.1em;
+    background-color: #FA8328;
+}
+
+.contentBold {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-style: normal;
+    line-height: normal;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: none;
+    position:center;
+}
+
+.content {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-style: normal;
+    line-height: normal;
+    font-weight: normal;
+    color: #000000;
+    text-decoration: none;
+    position:center;
+
+}
+
+
+.Label1 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    color: #333;
+    display: inline-block;
+    height: 20px;
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 5px;
+    clear: both;
+}
+
+
+.TextInput {
+    height: 20px;
+    width: 100px;
+    border: 1px solid #000;
+    margin-top: 10px;
+    margin-left:auto;
+}
+
+.Button1 {
+
+
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 11px;
+    color: #FFFFFF;
+    border: 1px #c53E03 solid;
+    cursor: pointer;
+    background-image: url('data:image/gif;base64,R0lGODlhAQASAMQAAOeQVuyia9dnKOqZYe6odNNeHtZjJOOGStltL9BVFt10OOF+Qc9VFdVgItNZGc5REs9TE9NaGwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAABABIAAAUP4AMxiRMVjSEgynIAQ0CEADs=');
+    margin-left:100px;
+  
+}
+
+
